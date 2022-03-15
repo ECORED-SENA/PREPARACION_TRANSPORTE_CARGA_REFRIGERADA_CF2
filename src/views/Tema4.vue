@@ -457,22 +457,27 @@
                 img(src='@/assets/curso/tema4/img89.jpg', alt='Detección')
 
           .row(numero="2" titulo="Diagnóstico")
+            .col-md-6.mb-4.mb-md-0
+              p De patología de los efectos de la exposición al frío con su respectivo plan de contingencia.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema4/img90.jpg', alt='Diagnóstico')
-            .col-md-6.mb-4.mb-md-0
-              p De patología de los efectos de la exposición al frío con su respectivo plan de contingencia.
+            
 
 
           .row(numero="3" titulo="Difusión de programas")
-            .col-md-6.mb-4.mb-md-0
-              p Difusión de programas de promoción de la salud y de hábitos de vida.
-
             .col-md-6
               figure
                 img(src='@/assets/curso/tema4/img91.jpg', alt='Difusión de programas')
+            .col-md-6.mb-4.mb-md-0
+              p Difusión de programas de promoción de la salud y de hábitos de vida.
+
+            
 
           .row(numero="4" titulo="Hábitos saludables")
+            .col-md-6
+              figure
+                img(src='@/assets/curso/tema4/img92.jpg', alt='Hábitos saludables')
             .col-md-6.mb-4.mb-md-0
               p
                 ul.lista-ul--color
@@ -487,11 +492,9 @@
                     | Practicar ejercicio físico.
                   li
                     i.fas.fa-check
-                    | Practicar ejercicio físico.
+                    | Consumir una dieta equilibrada. 
 
-            .col-md-6
-              figure
-                img(src='@/assets/curso/tema4/img92.jpg', alt='Hábitos saludables')
+            
 
 
 </template>

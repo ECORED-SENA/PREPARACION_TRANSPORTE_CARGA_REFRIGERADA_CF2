@@ -28,7 +28,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.1  Temperaturas y cadena de frío
 
-    p.mb-4 <span class="etiqueta">La <strong>cadena de frío</strong> es el <strong>proceso de garantizar el mantenimiento de la temperatura de los productos perecederos</strong> a lo largo de fases sucesivas</span>. De acuerdo con la circular externa DAB 400-1395-17 (INVIMA) expedida por la dirección de alimentos y bebidas de Invima, se deben considerar las condiciones que se registran en las siguientes tablas 1 y 2:
+    p.mb-4 <span class="etiqueta">La <strong>cadena de frío</strong> es el <strong>proceso de garantizar el mantenimiento de la temperatura de los productos perecederos</strong> a lo largo de fases sucesivas.</span>De acuerdo con la circular externa DAB 400-1395-17 (INVIMA) expedida por la dirección de alimentos y bebidas de Invima, se deben considerar las condiciones que se registran en las siguientes tablas 1 y 2:
 
     //.row.justify-content-center.mb-5.color-gray
       .col-10.col-sm-10.py-5
@@ -42,11 +42,13 @@
 
     .titulo-sexto.color-acento-3.mt-4
       h5 Tabla 1
-      span Conservación en los alimentos refrigerados
+      div.fst-italic Conservación en los alimentos refrigerados
     .tabla-a.color-acento-botones.mb-5
       table
         caption Nota. Departamento de Salud y Servicios Humanos de EE.UU. (2021).
         thead
+          tr
+            th.table-title-head.py-4(colspan='4') Conservación en los alimentos refrigerados
           tr
             th Alimento
             th Almacenamiento Refrigeración T°C / Tiempo Almacenamiento Máximo
@@ -64,7 +66,7 @@
             td Carne fresca de vaca, ternera, cordero y cerdo.
             td.color-acento4 Filetes y chuletas 4,4°C / 4 a 5 días.
             td.color-acento4 Filetes y chuletas 18°C / 6 a 12 meses y 4 a 6 meses.
-            td.color-acento4 Escherichia coli O157:H7, en carne de rumiantes.<br>Salmonella staphylocpccus aureus.<br>Listeria monocytogenes.
+            td.color-acento4 Escherichia coli O157:H7, en carne de rumiantes. Salmonella staphylocpccus aureus. Listeria monocytogenes.
 
           tr
             td Carne fresca de ave.
@@ -86,11 +88,13 @@
 
     .titulo-sexto.color-acento-3.mt-4
       h5 Tabla 2
-      span Cadena de frio para alimentos refrigerados
+      div.fst-italic  Cadena de frio para alimentos refrigerados
     .tabla-a.color-acento-botones.mb-5
       table
         caption Nota. Adaptado del Invima.
         thead
+          tr
+            th.table-title-head.py-4(colspan='2') Cadena de frio para alimentos refrigerados
           tr
             th Tipo de alimento
             th Temperatura
@@ -302,7 +306,8 @@
         .cajon.color-primario.p-4.mb-3
           p Es importante, además, tener en cuenta que las vacunas son fotosensibles, por lo que se recomienda mantenerlas en sus cajas originales cerradas y en lugares donde no están expuestas a la luz; de igual forma, se debe comprobar la información relacionada con la fecha de caducidad de las vacunas y desechar las que ya no estén vigentes, la fecha de caducidad aparece en la caja y muestran el mes y año final desde su periodo de validez.
 
-
+    .titulo-quinto.color-acento-contenido
+      h4 Cuidados manejo de las vacunas
     .row.my-5.color-gray.align-items-center.py-4.p-lg-5
       .col-lg-4.col-12
           p(data-aos="fade")
@@ -310,7 +315,7 @@
 
       .col-lg-8.col-12
         LineaSlideHorizontal.color-acento-contenido(text-small)
-          div(titulo="Calentamiento de las vacunas por ruptura de la cadena de frío." :imagen="require('@/assets/curso/tema1/slide-1.svg')")
+          div(titulo="Calentamiento de las vacunas por ruptura de la cadena de frío" :imagen="require('@/assets/curso/tema1/slide-1.svg')")
 
           div(titulo="Exposición de las vacunas a la luz y al calor"  :imagen="require('@/assets/curso/tema1/slide-2.svg')")
 
@@ -598,7 +603,7 @@
           figcaption Referencia Nota. Adaptado de Polifret (2020).
 
 
-    .row.my-4.color-gray.align-items-center.justify-content-center
+    .row.my-4.py-4.color-acento3.align-items-center.justify-content-center
       .col-lg-7.col-12
         p.mb-5(data-aos="fade") La logística en la cadena de suministros requiere de procesos para la movilidad de la carga a bajas temperatura y con atmósferas controladas, desde la recolección hasta la entrega final.
 
@@ -699,9 +704,9 @@
         img(src='@/assets/curso/tema1/img26.jpg' data-aos="zoom-in")
 
     .titulo-quinto.color-acento-contenido
-      h4 Categorías y temperatura para el transporte de productos perecederos.
+      h4 Categorías y temperatura para el transporte de productos perecederos
 
-    .row.mb-5#tarjetas-alto-fijo
+    .row#tarjetas-alto-fijo
       .col-md-4.col-sm-12.mb-4.mb-xl-0
         img(src='@/assets/curso/tema1/img27.jpg' data-aos="zoom-in")
         figcaption Alimentos altamente perecederos: carne y pescado se conservan  entre <strong>0 grados centígrados y 4 grados centígrados</strong>.
@@ -729,7 +734,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img29.jpg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               p Alimentos congelados: almacenados a -18 grados centígrados.
-
+    figcaption.mb-5 Nota. Adaptado de Polifret (2020).
 
     .row.align-items-center.my-4
 

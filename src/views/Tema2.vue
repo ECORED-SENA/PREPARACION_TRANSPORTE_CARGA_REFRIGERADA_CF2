@@ -93,7 +93,7 @@
         PasosA.color-secundario.my-5(tipo="n")
           .row.align-items-center.justify-content-center
             .col-md-8.mb-4.mb-md-0
-              p Seleccionar los empaques y embalajes de acuerdo con la naturaleza de la carga y los procesos logísticos
+              p Seleccionar los empaques y embalajes de acuerdo con la naturaleza de la carga y los procesos logísticos.
 
             .col-auto
               figure
@@ -103,11 +103,11 @@
               figure.mb-4
                 img(src='@/assets/curso/tema2/img42.svg')
             .col-md-8.mb-4.mb-md-0
-              p Colocar las unidades en el empaque mediante las diferentes técnicas y métodos a través de equipos y tecnologías teniendo en cuenta las características, naturaleza de la mercancía y normas de seguridad e higiene
+              p Colocar las unidades en el empaque mediante las diferentes técnicas y métodos a través de equipos y tecnologías teniendo en cuenta las características, naturaleza de la mercancía y normas de seguridad e higiene.
 
           .row.align-items-center.justify-content-center
             .col-md-8.mb-4.mb-md-0
-              p Agrupar envases primarios o secundarios para el transporte o distribución comercial de acuerdo a los métodos o técnicas establecidas y normas señaladas por la empresa
+              p Agrupar envases primarios o secundarios para el transporte o distribución comercial de acuerdo a los métodos o técnicas establecidas y normas señaladas por la empresa.
 
             .col-auto
               figure
@@ -132,7 +132,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.3  Ruta e itinerario
 
-    p.mb-4 El diseño de rutas de transporte de carga permite a las empresas planificar estrategias de distribución logística previendo posibles situaciones que obstaculicen las entregas de mercancía, teniendo en cuenta los recursos y parámetros necesarios que se deben cumplir con el contrato de entrega.
+    p.mb-4 El diseño de rutas de transporte de carga permite a las empresas planificar estrategias de distribución logística previendo posibles situaciones que obstaculicen las entregas de mercancía, teniendo en cuenta los recursos y parámetros necesarios que se deben cumplir con el contrato de entrega. Para determinar las rutas óptimas y el itinerario es importante tener en cuenta la información que nos registra el siguiente recurso.
 
     //Para determinar las rutas óptimas y el itinerario es importante tener en cuenta la información que nos registra el siguiente recurso:
 

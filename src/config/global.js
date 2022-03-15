@@ -340,6 +340,12 @@ export default {
         centro: 'CIES <br>Regional Norte de Santander',
       },
       {
+        nombre: 'Hernando Oviedo Viera',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Gestión de Mercados, Logística y Tecnologías de la Información<br>Regional Distrito Capital',
+      },
+      {
         nombre: 'Beatriz Eugenia Agudelo Vásquez',
         cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industria <br>Regional Distrito Capital',
