@@ -274,26 +274,26 @@ export default {
     {
       texto: 'Navarro, H. (2013). Logística en la cadena de frio.',
       tipo: 'Conferencia',
-      link:
+      descarga:
         '/downloads/Conferencia_logistica_en_la_cadena_de_frio_proexport.pdf',
     },
     {
       texto:
         'MinSalud. (2017). Guía de inocuidad de alimentos y bebidas para la actividad del transporte.',
       tipo: 'Guía',
-      link: '/downloads/Guia-inocuidad-alimentos-transporte.pdf',
+      descarga: '/downloads/Guia-inocuidad-alimentos-transporte.pdf',
     },
     {
       texto:
         'Bernal, M. y Perdomo, M. (2018). Transporte terrestre de carga refrigerada',
       tipo: 'Trabajo de grado',
-      link: '/downloads/Transporte_terrestre_carga_refrigerada.pdf',
+      descarga: '/downloads/Transporte_terrestre_carga_refrigerada.pdf',
     },
     {
       texto:
         'Dueñas, D. (2012). Calificación del proceso de embalaje, transporte y distribución en La cadena de frío, como almacén de producto terminado.',
       tipo: 'Trabajo de grado',
-      link: '/downloads/Calificacion_proceso_embalaje.pdf',
+      descarga: '/downloads/Calificacion_proceso_embalaje.pdf',
     },
     {
       texto: 'Código del comercio. Artículo 981. Contrato de transporte.',

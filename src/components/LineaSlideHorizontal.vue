@@ -47,7 +47,7 @@
 
 <script>
 import componentSlotMixins from '../../node_modules/ecored-base-pkg/src/mixins/componentSlotMixins'
-import ScrollHorizontal from '../../node_modules/ecored-base-pkg/src/components/plantilla/ScrollHorizontal'
+import ScrollHorizontal from '../components/ScrollHorizontal'
 export default {
   name: 'LineaSlideHorizontal',
   components: { ScrollHorizontal },
