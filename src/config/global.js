@@ -307,12 +307,6 @@ export default {
       link: 'https://web.mintransporte.gov.co/jspui/handle/001/3868',
     },
     {
-      texto: 'INVIMA. Circular Externa DAB 400-1395-17.',
-      tipo: 'Circular',
-      link:
-        'https://www.invima.gov.co/documents/20143/1298143/CIRCULAR-EXTERNA-400-1395-17.pdf/601ee00c-17e4-fb31-c65c-333937f95759?t=1565720260971',
-    },
-    {
       texto:
         'Arias, E. (2019). Plan logístico de transporte de carga contenerizada para la empresa Transcarprimen S.A.',
       tipo: 'Artículo',
