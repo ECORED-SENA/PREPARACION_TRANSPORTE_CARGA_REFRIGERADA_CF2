@@ -330,7 +330,7 @@ export default {
       },
       {
         nombre: 'Ruth Leonor Reyes Villalba',
-        cargo: 'Experto temático',
+        cargo: 'Experta temática',
         centro: 'CIES <br>Regional Norte de Santander',
       },
       {
