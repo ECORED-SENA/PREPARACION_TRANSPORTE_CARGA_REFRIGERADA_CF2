@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad did&amp;#225;ctica" />
+              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1190,13 +1190,12 @@
       <string id="slide_text_chk">Texto Diapositiva</string>
       <string id="three_image_visited">visitado</string>
       <string id="three_image_audio">audio</string>
-      <string id="three_image_interaction_prev">anterior</string>
+      <string id="three_image_interaction_prev">previo</string>
       <string id="three_image_interaction_next">siguiente</string>
       <string id="three_image_camera_right">cámara movida a la derecha</string>
       <string id="three_image_camera_left">cámara movida a la izquierda</string>
       <string id="three_image_camera_down">cámara movida hacia abajo</string>
       <string id="three_image_camera_up">cámara movida hacia arriba</string>
-      <string id="three_image_tooltip">descripción emergente</string>
       <string id="three_image_label">etiqueta</string>
       <string id="three_image_interaction">interacción de la imagen de 360 grados</string>
       <string id="three_image_marker">marcador</string>
@@ -1211,15 +1210,9 @@
       <string id="three_image_play_audio">reproducir audio</string>
       <string id="three_image_play_video">reproducir video</string>
       <string id="three_image_video">video</string>
+      <string id="three_image_view_image">ver imagen</string>
       <string id="three_image_video_volume">volumen del video</string>
-      <string id="three_image_instructions">Utiliza las teclas W, A, S y D para moverte por la imagen de 360 grados. Presiona la tecla TAB para saltar a los marcadores interactivos y los puntos calientes.</string>
-      <string id="three_image_count_of_total">%count% de %total%</string>
-      <string id="acc_three_image_step_count_of_total">paso %count% de %total%</string>
-      <string id="three_image_total_items">%total% ítems</string>
-      <string id="three_image_total_item">%total% ítem</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% de %total% ítems visitados</string>
-      <string id="three_image_count_of_total_visited">%count% de %total% visitados</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% de %total% ítems visitados</string>
+      <string id="three_image_instructions">Utiliza las flechas del teclado para moverte por la imagen de 360 grados. Presiona la tecla TAB para saltar a los marcadores y puntos calientes interactivos.</string>
       <string id="three_image_item">ítem</string>
       <string id="three_image_items">ítems</string>
       <string id="three_image_of">de</string>
@@ -1278,16 +1271,16 @@
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.67W6ZWDOjnK" displaytext="1. De acuerdo con recomendaciones del Invima, en el manejo de las                                                                     estas se transportan a temperaturas entre 10 y 12 °C.&#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6STA9Xogn3v" displaytext="2. Los alimentos altamente perecederos tales como la carne y el pescado se conservan entre &#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6c2oaH4AUq8" displaytext="3. La hamburguesa y preparación con carne molida se almacenan a temperaturas de refrigeración de 4,4°C en un tiempo de duración entre&#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6gxzITBKFe1" displaytext="4. Los ovoproductos se conservan en refrigeración a 4°C y a&#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5mY9jlBcale" displaytext="5. Durante el transporte                                  de medicamentos, la temperatura recomendada oscila entre 2°C y 8°C.&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6cyfOWr1SLc" displaytext="6. Un enfriamiento rápido de los productos se logra a temperaturas de                  °C para evitar la formación de macrocristales de hielo que romperían la composición y aspecto del alimento.&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5doyWzOwbf4" displaytext="7. Los pescados frescos y refrigerados se deben conservar a la T más próxima a la de fusión del hielo a                   °C.&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5u27hNPpXkL" displaytext="8. El pollo o pavo entero o en trozos se conserva en condiciones de refrigeración a                  °C.&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6hRMPwGhqcn" displaytext="9. Los helados que se sirvan a granel o fraccionados pueden conservarse antes de su servicio a temperaturas superiores que permitan ser manipulados en dichas condiciones. Esta temperatura corresponde a           °C.&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.67SCxJQmX44" displaytext="10. Los granizados que se sirvan a granel o fraccionados pueden conservarse antes de su servicio a temperaturas superiores que permitan ser manipulados en dichas condiciones, esto es a            °C.&#xA;" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="De acuerdo con recomendaciones del Invima, en el manejo de las frutas y verduras estas se transportan a temperaturas entre 10 y 12 °C." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6lW37NAmPvY" displaytext="¿Los sonidos son elementos decorativos que sirven para rellenar los silencios en las producciones audiovisuales?" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.5XIoZ8HbOID" displaytext="La hamburguesa y preparación con carne molida se almacenan a temperaturas de refrigeración de 4,4°C en un tiempo de duración entre 1 a 2 días." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6RPkKkKZRlV" displaytext="Los ovoproductos se conservan en refrigeración a 4°C y a 12°C, si se conservan en congelación." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6prORDUD9Zj" displaytext="Durante el transporte refrigerado de medicamentos, la temperatura recomendada oscila entre:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6quP1L5WMYE" displaytext="Un enfriamiento rápido de los productos se logra a temperaturas de _____ para evitar la formación de macrocristales de hielo que romperían la composición y aspecto del alimento." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6PjCHJZBInZ" displaytext="Los pescados frescos y refrigerados se deben conservar a la T más próxima a la de fusión del hielo a:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6IVrSRuYhvv" displaytext="El pollo o pavo entero o en trozos se conserva en condiciones de refrigeración a:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6go0jpRnkCe" displaytext="Los helados que se sirvan a granel o fraccionados pueden conservarse antes de su servicio a temperaturas superiores que permitan ser manipulados en dichas condiciones. Esta temperatura corresponde a: " expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.62DxqZemnxa" displaytext="Los granizados que se sirvan a granel o fraccionados pueden conservarse antes de su servicio a temperaturas superiores que permitan ser manipulados en dichas condiciones, esto es a:." expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
