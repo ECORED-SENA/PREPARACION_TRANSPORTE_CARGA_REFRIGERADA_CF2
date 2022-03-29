@@ -47,7 +47,7 @@
       li
         .lista-ol--cuadro__vineta
           span 3
-        | Entrega de check y registro de despacho en la nube.
+        | Entrega de &nbsp;<i>check</i>  &nbsp;y registro de despacho en la nube.
       li
         .lista-ol--cuadro__vineta
           span 4

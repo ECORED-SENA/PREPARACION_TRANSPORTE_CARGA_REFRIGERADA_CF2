@@ -60,13 +60,13 @@
 
             td.color-acento4 4,4°C / 1 a 2 días.
             td.color-acento4 - 18°C / 3 a 4 meses.
-            td.color-acento4 Escherichia coli O157:H7 <br>Salmonella
+            td.color-acento4 <i>Escherichia coli</i> O157:H7 <br><i>Salmonella</i>
 
           tr
             td Carne fresca de vaca, ternera, cordero y cerdo.
             td.color-acento4 Filetes y chuletas 4,4°C / 4 a 5 días.
             td.color-acento4 Filetes y chuletas 18°C / 6 a 12 meses y 4 a 6 meses.
-            td.color-acento4 Escherichia coli O157:H7, en carne de rumiantes. Salmonella staphylocpccus aureus. Listeria monocytogenes.
+            td.color-acento4 <i>Escherichia coli</i> O157:H7, en carne de rumiantes. <i>Salmonella staphylocpccus aureus. Listeria monocytogenes.</i>
 
           tr
             td Carne fresca de ave.
@@ -75,7 +75,7 @@
 
             td.color-acento4 4,4°C / 1 a 2 días.
             td.color-acento4 - 18°c / 1 año y 9 meses.
-            td.color-acento4 Salmonella Campylobacter jejuni<br>Escherichia coli (E. coli) Listeria monocytogenes<br>Staphylococcus aureus
+            td.color-acento4 <i>Salmonella Campylobacter jejuni</i><br><i>Escherichia coli(E. coli) Listeria monocytogenes</i> <br><i>Staphylococcus aureus</i>
 
           tr
             td Pescados y mariscos.
@@ -83,7 +83,7 @@
               | <br>Camarones, ostiones, langostas y calamares frescos.
             td.color-acento4 4,4°C / 1 a 2 días.
             td.color-acento4 - 18°c / 6 meses y 2 a 3 meses y 3 a 6 meses.
-            td.color-acento4 Vibrio clolerae.
+            td.color-acento4 <i>Vibrio clolerae.</i>
 
 
     .titulo-sexto.color-acento-3.mt-4
@@ -307,7 +307,7 @@
           p Es importante, además, tener en cuenta que las vacunas son fotosensibles, por lo que se recomienda mantenerlas en sus cajas originales cerradas y en lugares donde no están expuestas a la luz; de igual forma, se debe comprobar la información relacionada con la fecha de caducidad de las vacunas y desechar las que ya no estén vigentes, la fecha de caducidad aparece en la caja y muestran el mes y año final desde su periodo de validez.
 
     .titulo-quinto.color-acento-contenido
-      h4 Cuidados manejo de las vacunas
+      h4 Cuidados en el manejo de las vacunas
     .row.my-5.color-gray.align-items-center.py-4.p-lg-5
       .col-lg-4.col-12
           p(data-aos="fade")
@@ -505,7 +505,7 @@
 
     p.mb-4 Estos contenedores mantienen frescos los productos al hacer circular aire frío, desde la parte inferior de la unidad para que circule sobre y a través de la carga perecedera y salga del contenedor por medio de las aberturas ubicadas en la parte superior de la unidad del sistema de refrigeración; estos contenedores además cuentan con un mecanismo de refrigeración que es autoalimentado y accionado por puntos de alimentación externos en muelles, barcos y bases de mercancía.
 
-    p.mb-4 Existen opciones para mantener los artículos frescos mientras se transportan, en contenedores versátiles y confiables. La unidad es un contenedor independiente y se puede usar en cualquier lugar donde se cuente con un espacio para colocarlos, puede funcionar con electricidad o usar el generador para un uso a corto plazo in situ.
+    p.mb-4 Existen opciones para mantener los artículos frescos mientras se transportan, en contenedores versátiles y confiables. La unidad es un contenedor independiente y se puede usar en cualquier lugar donde se cuente con un espacio para colocarlos, puede funcionar con electricidad o usar el generador para un uso a corto plazo <i>in situ </i>.
 
 
     .row.justify-content-center.mb-4

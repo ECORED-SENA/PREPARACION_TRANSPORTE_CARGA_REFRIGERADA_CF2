@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Preparación del proceso de transporte de carga refrigerada',
     descripcionCurso:
-      'Las tendencias de la globalización de mercados y las expectativas requeridas por los consumidores, hace que la conservación de productos esté acorde con las políticas de seguridad alimentaria y la protección de salud del consumidor, garantizando su calidad frente a la cadena de frío y protocolos de higiene, limpieza conservación.',
+      'Las tendencias de la globalización de mercados y las expectativas requeridas por los consumidores, hace que la conservación de productos esté acorde con las políticas de seguridad alimentaria y la protección de salud del consumidor, garantizando su calidad frente a la cadena de frío y protocolos de higiene, limpieza y conservación.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -203,9 +203,9 @@ export default {
         'Navarro, H. (2013). Logìstica en la cadena de frío. (p.13). Bogotá: Proexport.',
     },
     {
-      referencia: 'OPS & OMS. (2017). Cluster de Salud.',
+      referencia: 'OPS & OMS. (2011). Cluster de Salud.',
       link:
-        'https://www.paho.org/es/cluster-salud-colombia-sistema-informacion',
+        'https://www.who.int/hac/global_health_cluster/guide/health_cluster_guide_31mar2011_sp.pdf',
     },
     {
       referencia:
@@ -226,7 +226,7 @@ export default {
       referencia:
         'SGS TECNOS. Departamento de Desarrollo de Proyectos e Innovación (2008). La salud laboral de los trabajadores del sector de frio industrial.',
       link:
-        'http://tusaludnoestaennomina.com/wp-content/uploads/2014/12/La-salud-laboral-en-los-trabajadores-del-sector-de-frío-industrial.pdf',
+        'http://tusaludnoestaennomina.com/wp-content/uploads/2014/12/La-salud-laboral-en-los-trabajadores-del-sector-de-frio-industrial.pdf',
     },
     {
       referencia:
