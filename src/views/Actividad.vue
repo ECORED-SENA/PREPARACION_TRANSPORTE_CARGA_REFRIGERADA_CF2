@@ -16,7 +16,7 @@
         .tarjeta.color-primario.p-2
           .row.justify-content-around.align-items-center
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0.px-lg-2 Completar los espacios
+              p.fw-bold.mb-0.px-lg-2 Seleccionar los espacios
             .col-auto
               a.boton.boton--b.text-white(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
