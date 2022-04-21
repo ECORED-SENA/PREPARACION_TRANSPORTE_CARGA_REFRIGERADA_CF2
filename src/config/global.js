@@ -203,7 +203,8 @@ export default {
         'Navarro, H. (2013). Logìstica en la cadena de frío. (p.13). Bogotá: Proexport.',
     },
     {
-      referencia: 'OPS & OMS. (s.f.). Cluster de Salud Colombia: Quienes Somos.',
+      referencia:
+        'OPS & OMS. (s.f.). Cluster de Salud Colombia: Quienes Somos.',
       link:
         'https://www.paho.org/es/cluster-salud-colombia-sistema-informacion/cluster-salud-colombia-quienes-somos',
     },
